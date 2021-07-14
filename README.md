@@ -1,4 +1,4 @@
-- 👋 Oi, eu sou @Charlesson-MP
+- 👋 Oi, eu sou @Charlesson-MP.
 - 👀 Meu objetivo é absorver o máximo de conhecimento possível. Sempre evoluindo!
 - 🌱 Acabei de finalizar o curso básico de gitHub. Agora rumo ao próximo passo!
 - 📫 How to reach me: 
