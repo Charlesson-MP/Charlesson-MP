@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Charlesson-MP
-- 👀 I’m interested in in learning more and practicing my programming knowledge.
-- 🌱 I’m currently learning how to use gitHub.
-- 💞️ I’m looking to collaborate on my studies.
+- 👋 Oi, eu sou @Charlesson-MP
+- 👀 Meu objetivo é absorver o máximo de conhecimento possível. Sempre evoluindo!
+- 🌱 Acabei de finalizar o curso básico de gitHub. Agora rumo ao próximo passo!
 - 📫 How to reach me: 
    - e-mail: charlessonmendes@gmail.com
    - instagram: [@charlesson_mp](https://www.instagram.com/charlesson_mp/)
