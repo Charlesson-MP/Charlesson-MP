@@ -1,6 +1,6 @@
 - 👋 Oi, eu sou @Charlesson-MP.
 - 👀 Meu objetivo é absorver o máximo de conhecimento possível. Sempre evoluindo!
-- 🌱 Acabei de finalizar o curso básico de gitHub. Agora rumo ao próximo passo!
+- 🌱 Cursando atualmente ciências da computação na UESB, meu primeiro objetivo é trabalhar na área, obtendo assim experiência profissional.
 - 📫 How to reach me: 
    - e-mail: charlessonmendes@gmail.com
    - instagram: [@charlesson_mp](https://www.instagram.com/charlesson_mp/)
