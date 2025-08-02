@@ -35,7 +35,7 @@ Aqui estão alguns dos meus projetos mais relevantes, todos desenvolvidos com **
   - **Link da aplicação:** [https://charlesson-mp.github.io/lista-de-tarefas/](https://charlesson-mp.github.io/lista-de-tarefas/)
   - **Repositório:** [https://github.com/Charlesson-MP/lista-de-tarefas](https://github.com/Charlesson-MP/lista-de-tarefas)
   
-  ![Imagem do projeto Lista de Tarefas](https://raw.githubusercontent.com/Charlesson-MP/lista-de-tarefas/main/screenshot.png)
+  ![Imagem do projeto Lista de Tarefas](./images/preview-lista-de-tarefas.png)
 </details>
 
 <details>
@@ -46,7 +46,7 @@ Aqui estão alguns dos meus projetos mais relevantes, todos desenvolvidos com **
   - **Link da aplicação:** [https://charlesson-mp.github.io/social-links-profile-main/](https://charlesson-mp.github.io/social-links-profile-main/)
   - **Repositório:** [https://github.com/Charlesson-MP/social-links-profile-main](https://github.com/Charlesson-MP/social-links-profile-main)
   
-  ![Imagem do projeto Social Links Profile](https://raw.githubusercontent.com/Charlesson-MP/social-links-profile-main/main/screenshot.png)
+  ![Imagem do projeto Social Links Profile](./images/preview-social-links.png)
 </details>
 
 <details>
@@ -57,7 +57,7 @@ Aqui estão alguns dos meus projetos mais relevantes, todos desenvolvidos com **
   - **Link da aplicação:** [https://charlesson-mp.github.io/projeto-x-devs/](https://charlesson-mp.github.io/projeto-x-devs/)
   - **Repositório:** [https://github.com/Charlesson-MP/projeto-x-devs](https://github.com/Charlesson-MP/projeto-x-devs)
   
-  ![Imagem do projeto X-DEVS](https://raw.githubusercontent.com/Charlesson-MP/projeto-x-devs/main/screenshot.png)
+  ![Imagem do projeto X-DEVS](./images/preview-x-devs.png)
 </details>
 
 ---
